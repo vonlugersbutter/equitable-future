@@ -1,1 +1,1 @@
-# equitable-future
+# react-gatsby-practice
