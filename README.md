@@ -1,1 +1,3 @@
-# react-gatsby-practice
+# equitable-future
+
+Equitable Future website design.
